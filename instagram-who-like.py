@@ -28,8 +28,8 @@ try:
 except:
     print("webdriver error")
     
-username = "vali49129@gmail.com"
-password = "qwerty12345"    
+username = "xxxxx@gmail.com"
+password = "xxxxxx"    
 
 browser.get("https://www.instagram.com/")
 
